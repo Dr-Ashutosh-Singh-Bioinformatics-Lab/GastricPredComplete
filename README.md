@@ -13,15 +13,18 @@ To further strengthen our approach, we have selected 13 features using various F
 
 ## Accuracy Heatmap of the Different Feature Selection Methods for Cancer Driver Genes
 
-![ACC_D](https://github.com/Rohit17145/Gastric/assets/49432402/d7b33e3e-26ad-4a62-86be-ffa7b1711082)
+![ACC](https://github.com/GITractCancer/GastricPredComplete/assets/171772666/ebeb444d-86f3-4f65-8128-787335eb324b)
+
 
 ## AUC Heatmap of the Different Feature Selection Methods for Cancer Driver Genes 
 
-![AUC_D](https://github.com/Rohit17145/Gastric/assets/49432402/75aa37e0-98f6-40c6-b352-9047edcd1faa)
+![AUC](https://github.com/GITractCancer/GastricPredComplete/assets/171772666/68ec564c-cff5-4cee-92a3-d6e707152808)
+
 
 
 ## Venn Diagram showing features in atleast in 2 Feature Selection Methods for Cancer Driver Genes
-![Driver](https://github.com/Rohit17145/Gastric/assets/49432402/da226539-69fe-453c-ba69-9b52b730e564)
+
+![Complete](https://github.com/GITractCancer/GastricPredComplete/assets/171772666/2c45aada-daeb-42a5-9f22-8c02ec3417f7)
 
 
 Installation and Usage:
